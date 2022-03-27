@@ -30,7 +30,7 @@ const Index: NextPage = () => {
     <Header></Header>
     <div className={styles.contentContainer}>
       <br/>
-      <div className={styles.header}>Your friends are currently listening to...</div>
+      <div className={styles.header}>im currently listening to...</div>
       <br/>
       <Song song={songInfo}></Song>
       <br/><br/><br/>
@@ -51,7 +51,7 @@ const Index: NextPage = () => {
       <a href='https://github.com/FlafyDev/spotify-listen-together'>
         <img src='/images/Github.png' width={64}></img>
       </a>
-      <label>Made by <a href='https://github.com/FlafyDev'>FlafyDev</a></label>
+      <labelskidded by vexirale LOL</label>
       <label>Recommended client v{config.clientRecommendedVersion}</label>
     </div>
   </div>
